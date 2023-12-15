@@ -6,7 +6,7 @@
 [PASSWORD] (password)
 [AUTOCONTINUE] True
 [AUTOBWC] True
-[IS-SAVED] True
+[IS-SAVED] True 
 [VERSION] 1.2
 --- [WORK LOGS] --- 
 17:11:42 [LOG] Writing New Log
